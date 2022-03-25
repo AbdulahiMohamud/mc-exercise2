@@ -1,6 +1,7 @@
 :)
 
-new feature added by bob the builder
+new feature added by bob the builder 
+****************************************
 
 Feature 1 by Carol
 
